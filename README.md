@@ -6,6 +6,10 @@ Each project demonstrates applied knowledge of machine learning concepts using r
 
 ## 📚 Projects
 
-### 1. Exploratory Data Analysis – Ames Housing
+### 1. Exploratory Data Analysis – Ames Housing  
 [01_data_exploration_project](./01_data_exploration_project/)  
 Exploratory data analysis, log-transformations, and hypothesis testing on a real housing dataset.
+
+### 2. Screen Time Prediction – Teen Survey Data  
+[02_screen_time_prediction](./02_screen_time_prediction/)  
+Regression analysis to predict teenagers' screen time based on demographic and behavioral survey data.
